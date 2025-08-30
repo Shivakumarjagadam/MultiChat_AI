@@ -82,7 +82,7 @@ with st.sidebar:
         st.rerun()
 
 # Main title
-st.title("🚀 All-in-One AI Chatbot")
+st.title("--MultiChat AI Chatbot--")
 st.markdown(f"**Current Model:** {selected_model} | **Total Models Available:** {len(MODEL_MAPPING)}")
 st.markdown("---")
 
